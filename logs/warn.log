@@ -14,3 +14,7 @@
 [2022-12-22T20:36:00.332] [ERROR] default - Api de productos: Error: ER_ACCESS_DENIED_ERROR: Access denied for user 'root'@'localhost' (using password: YES)
 [2022-12-22T20:37:32.806] [WARN] default - Failed request GET at /favicon.ico
 [2022-12-22T20:51:08.309] [WARN] default - Failed request GET at /favicon.ico
+[2022-12-26T21:48:32.647] [WARN] default - Failed request GET at /favicon.ico
+[2022-12-26T21:48:45.881] [WARN] default - Failed request GET at /favicon.ico
+[2022-12-26T21:48:50.561] [WARN] default - Failed request GET at /favicon.ico
+[2022-12-26T21:48:53.399] [WARN] default - Failed request GET at /favicon.ico
